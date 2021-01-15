@@ -83,7 +83,7 @@ Sophos Anti-Virus 9.10.0 and Cisco AnyConnect 4.8 do not support Big Sur. This i
   fi
   ```
 
-  I have the script saved as vpnreset.sh in the same directory as the csd-wrapper. So on disconnect I run:
+  I have the script saved as vpnreset.sh in the same directory as the csd-wrapper. So if I have problems on disconnect I run:
 
   ```
   ./vpnreset.sh
