@@ -98,6 +98,3 @@ Sophos Anti-Virus 9.10.0 and Cisco AnyConnect 4.8 do not support Big Sur. This i
   ```
 
   This way the openconnect command is always in recent history.
-  
-  
-google-site-verification: googleab1480c623c1bfd5.html
